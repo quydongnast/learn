@@ -1,2 +1,3 @@
 # learn
-learn git basic
+learn git basic !!!
+My name quy
