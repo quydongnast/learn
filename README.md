@@ -1,4 +1,4 @@
 # learn
 learn git basic !!!
 My name quy
-Get Pull code
+Get code from server master to local
