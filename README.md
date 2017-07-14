@@ -1,4 +1,4 @@
 # learn
-learn git basic !!! <br/>
-
-Have a nice day :)
+learn git basic !!!
+My name quy
+Get Pull code
